@@ -1,0 +1,14 @@
+C:\Users\tickr\source\repos\physicstuff\physicstuff\bin\Debug\net8.0\physicstuff.exe
+C:\Users\tickr\source\repos\physicstuff\physicstuff\bin\Debug\net8.0\physicstuff.deps.json
+C:\Users\tickr\source\repos\physicstuff\physicstuff\bin\Debug\net8.0\physicstuff.runtimeconfig.json
+C:\Users\tickr\source\repos\physicstuff\physicstuff\bin\Debug\net8.0\physicstuff.dll
+C:\Users\tickr\source\repos\physicstuff\physicstuff\bin\Debug\net8.0\physicstuff.pdb
+C:\Users\tickr\source\repos\physicstuff\physicstuff\obj\Debug\net8.0\physicstuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tickr\source\repos\physicstuff\physicstuff\obj\Debug\net8.0\physicstuff.AssemblyInfoInputs.cache
+C:\Users\tickr\source\repos\physicstuff\physicstuff\obj\Debug\net8.0\physicstuff.AssemblyInfo.cs
+C:\Users\tickr\source\repos\physicstuff\physicstuff\obj\Debug\net8.0\physicstuff.csproj.CoreCompileInputs.cache
+C:\Users\tickr\source\repos\physicstuff\physicstuff\obj\Debug\net8.0\physicstuff.dll
+C:\Users\tickr\source\repos\physicstuff\physicstuff\obj\Debug\net8.0\refint\physicstuff.dll
+C:\Users\tickr\source\repos\physicstuff\physicstuff\obj\Debug\net8.0\physicstuff.pdb
+C:\Users\tickr\source\repos\physicstuff\physicstuff\obj\Debug\net8.0\physicstuff.genruntimeconfig.cache
+C:\Users\tickr\source\repos\physicstuff\physicstuff\obj\Debug\net8.0\ref\physicstuff.dll
