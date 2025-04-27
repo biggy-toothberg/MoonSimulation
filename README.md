@@ -8,9 +8,6 @@ This simulation integrates realistic physics—gravity variation, standard atmos
 
 - **Gravity Model**  
   - Uses inverse-square law:  
-    \[  
-      g(h) = g_0 \Bigl(\frac{R_\text{earth}}{R_\text{earth}+h}\Bigr)^2  
-    \]  
   - Accounts for decreasing gravity with altitude  
 
 - **Standard Atmosphere (ISA)**  
@@ -45,13 +42,3 @@ This simulation integrates realistic physics—gravity variation, standard atmos
 
 - **Numerical Integration**  
   - Euler forward integration of velocity and altitude every 0.1 s  
-
-- **Visual Console Outputs**  
-  - Stage indicator  
-  - Telemetry box with altitude, velocity, acceleration, thrust, mass flow, drag, density, dynamic pressure, Isp, cabin pressure, O₂/CO₂, Mach number, \(C_d\), pitch angle  
-  - ASCII-style “Ascent Progress” and atmospheric layer name  
-
-- **Behavioural Highlights**  
-  - Stages automatically jettison when fuel depletes, with a 2 s coasting pause  
-  - Thrust and drag forces balance against weight to compute net acceleration  
-  - Simulation ends when all stages expended or target orbital altitude reached  
